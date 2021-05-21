@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student of SPŠE Ječná.
+I'm currently working on an android application
 <!--
 **OndrejKulhavy/OndrejKulhavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
