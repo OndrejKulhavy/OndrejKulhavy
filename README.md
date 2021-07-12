@@ -11,7 +11,7 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
      - 🦜 twitter: [OndrejKulhavy](https://twitter.com/KulhavyOndrej)
 
 ### I’m currently working on...
-- Android app called **Obec v Kapse**, which shows you events in your :czech_republic: city/village. App is based on open data from [NKOD](https://data.gov.cz/).
+- Android app called [**Obec v Kapse**](https://github.com/OndrejKulhavy/Obec-v-Kapse), which shows you events in your :czech_republic: city/village. App is based on open data from [NKOD](https://data.gov.cz/).
 - Website for *Studentský Parlament Ječná* in my school.
 
 <!--
