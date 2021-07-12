@@ -10,7 +10,7 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
      - 👍facebook: [okulhav](https://www.facebook.com/Okulhav/)
 
 ### I’m currently working on...
-Android app called **Obec v Kapse**, which shows you events in your city/village. App is based on open data from [NKOD](https://data.gov.cz/datov%C3%A9-sady).
+Android app called **Obec v Kapse**, which shows you events in your :czech_republic: city/village. App is based on open data from [NKOD](https://data.gov.cz/).
 
      
 <!--
