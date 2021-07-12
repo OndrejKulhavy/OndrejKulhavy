@@ -13,7 +13,6 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
 - Android app called **Obec v Kapse**, which shows you events in your :czech_republic: city/village. App is based on open data from [NKOD](https://data.gov.cz/).
 - Website for *Studentský Parlament Ječná* in my school.
 
-     
 <!--
 **OndrejKulhavy/OndrejKulhavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
