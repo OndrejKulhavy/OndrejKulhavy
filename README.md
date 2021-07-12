@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ondřej Kulhavý :🇨🇿:,
+### Hi there 👋 I'm Ondřej Kulhavý :czech_republic:,
 
 A student passionate about programming 👩‍💻 and especially healthy💪 and productive life🚀.
 
