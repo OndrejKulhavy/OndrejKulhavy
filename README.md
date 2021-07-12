@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Ondřej Kulhavý,
 
-A student passionate about programming 👩‍💻 and especially healthy and productive life.
+A student passionate about programming 👩‍💻 and especially healthy💪 and productive life🚀.
 - You can reach me by
      - 📧email: okulhav@gmail.com
      - 📸ig: [@okulhavy](https://www.instagram.com/okulhavy)
      - 👍facebook: [okulhav](https://www.facebook.com/Okulhav/)
+
+# asfd
 <!--
 **OndrejKulhavy/OndrejKulhavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
