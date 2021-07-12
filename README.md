@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ondřej Kulhavý
 
 Student of SPŠE Ječná.
 
