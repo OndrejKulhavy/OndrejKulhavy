@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ondřej Kulhavý :czech_republic:,
+### Hi there 👋 I'm Ondřej Kulhavý,
 
 A student passionate about programming 👩‍💻 and especially healthy💪 and productive life🚀.
 
@@ -8,6 +8,9 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
      - 📧email: okulhav@gmail.com
      - 📸ig: [@okulhavy](https://www.instagram.com/okulhavy)
      - 👍facebook: [okulhav](https://www.facebook.com/Okulhav/)
+
+#### I’m currently working on android app - Obec v Kapse
+
      
 <!--
 **OndrejKulhavy/OndrejKulhavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
