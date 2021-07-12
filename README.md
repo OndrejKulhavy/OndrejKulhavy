@@ -12,7 +12,7 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
 
 ### I’m currently working on...
 - Android app called [**Obec v Kapse**](https://github.com/OndrejKulhavy/Obec-v-Kapse), which shows you events in your :czech_republic: city/village. App is based on open data from [NKOD](https://data.gov.cz/). 
-     - I also created some sample data that you can use for your project [here](https://github.com/OndrejKulhavy/OvK_OFN_datasets).
+     - I also created some [sample data](https://github.com/OndrejKulhavy/OvK_OFN_datasets) that you can use for your similar project.
 - Website for *Studentský Parlament Ječná* in my school.
 
 <!--
