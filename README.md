@@ -8,7 +8,7 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
      - 📧email: okulhav@gmail.com
      - 📸ig: [@okulhavy](https://www.instagram.com/okulhavy)
      - 👍facebook: [okulhav](https://www.facebook.com/Okulhav/)
-     -🦜 twitter: [OndrejKulhavy](https://twitter.com/KulhavyOndrej)
+     - 🦜 twitter: [OndrejKulhavy](https://twitter.com/KulhavyOndrej)
 
 ### I’m currently working on...
 - Android app called **Obec v Kapse**, which shows you events in your :czech_republic: city/village. App is based on open data from [NKOD](https://data.gov.cz/).
