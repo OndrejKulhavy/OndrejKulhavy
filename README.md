@@ -5,9 +5,9 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
 >“The pain you feel today will be the strength you feel tomorrow.” – Arnold Schwarzenegger
 
 - You can reach me by
-     - 📧email: okulhav@gmail.com
-     - 📸ig: [@okulhavy](https://www.instagram.com/okulhavy)
-     - 👍facebook: [okulhav](https://www.facebook.com/Okulhav/)
+     - 📧 email: okulhav@gmail.com
+     - 📸 ig: [@okulhavy](https://www.instagram.com/okulhavy)
+     - 👍 facebook: [okulhav](https://www.facebook.com/Okulhav/)
      - 🦜 twitter: [OndrejKulhavy](https://twitter.com/KulhavyOndrej)
 
 ### I’m currently working on...
