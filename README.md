@@ -10,11 +10,6 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
      - 👍 facebook: [okulhav](https://www.facebook.com/Okulhav/)
      - 🦜 twitter: [OndrejKulhavy](https://twitter.com/KulhavyOndrej)
 
-### I’m currently working on...
-- Android app called [**Obec v Kapse**](https://github.com/OndrejKulhavy/Obec-v-Kapse), which shows you events in your :czech_republic: city/village. App is based on open data from [NKOD](https://data.gov.cz/). 
-     - I also created some [sample data](https://github.com/OndrejKulhavy/OvK_OFN_datasets) that you can use for your similar project.
-- Website for *Studentský Parlament Ječná*.
-
 <!--
 **OndrejKulhavy/OndrejKulhavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
