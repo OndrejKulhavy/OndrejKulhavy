@@ -2,7 +2,7 @@
 
 A student passionate about programming 👩‍💻 and especially healthy💪 and productive life🚀.
 
-I'm currently studying [Střední průmyslová škola elektrotechnická Ječná](www.spsejecna.cz) and working for [Institute of Clinical and Experimental Medicine](www.ikem.cz).
+I'm currently studying at [Střední průmyslová škola elektrotechnická Ječná](www.spsejecna.cz) and working for [Institute of Clinical and Experimental Medicine](www.ikem.cz).
 
 <details>
 <summary>
