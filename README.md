@@ -16,6 +16,7 @@ I'm currently studying [Střední průmyslová škola elektrotechnická Ječná]
 <summary>
   More stuff about me
 </summary>
+  
 ## My skills
 - 2D / 3D modeling (VR, 3D printing)
      - Working with CAD systems (usually with [FreeCad](www.freecadweb.org))
@@ -30,6 +31,7 @@ I'm currently studying [Střední průmyslová škola elektrotechnická Ječná]
      - Unity engine
      - Arduino and micro electronics
      - Video editing
+  
 </details>
 
 
