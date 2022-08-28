@@ -4,14 +4,6 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
 
 I'm currently studying [Střední průmyslová škola elektrotechnická Ječná](www.spsejecna.cz) and working for [Institute of Clinical and Experimental Medicine](www.ikem.cz).
 
-| Social media                                                      | User name                                                     |
-| ----------------------------------------------------------------- | ------------------------------------------------------------- |
-| <img style=width:15px src=https://bit.ly/3e5NJdj></img> Email     | okulhav@gmail.com                                             |
-| <img style=width:15px src=https://bit.ly/3CD3emT></img> IG        | [okulhavy](https://www.instagram.com/okulhavy)                |
-| <img style=width:15px src=https://bit.ly/3CD1ytH></img> Facebook  | [okulhav](https://www.facebook.com/Okulhav/)                  |
-| <img style=width:15px src=https://bit.ly/3TmNQkI></img> Twitter   | [OndrejKulhavy](https://twitter.com/KulhavyOndrej)            |
-| <img style=width:15px src=https://bit.ly/3pNTsqH></img> LinkedIn  | [Ondřej Kulhavý](https://www.linkedin.com/in/ondřej-kulhavý/) |
-
 <details>
 <summary>
   More stuff about me
@@ -51,3 +43,12 @@ GitIgnore file         13 mins         -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
+
+
+| Social media                                                      | User name                                                     |
+| ----------------------------------------------------------------- | ------------------------------------------------------------- |
+| <img style=width:15px src=https://bit.ly/3e5NJdj></img> Email     | okulhav@gmail.com                                             |
+| <img style=width:15px src=https://bit.ly/3CD3emT></img> IG        | [okulhavy](https://www.instagram.com/okulhavy)                |
+| <img style=width:15px src=https://bit.ly/3CD1ytH></img> Facebook  | [okulhav](https://www.facebook.com/Okulhav/)                  |
+| <img style=width:15px src=https://bit.ly/3TmNQkI></img> Twitter   | [OndrejKulhavy](https://twitter.com/KulhavyOndrej)            |
+| <img style=width:15px src=https://bit.ly/3pNTsqH></img> LinkedIn  | [Ondřej Kulhavý](https://www.linkedin.com/in/ondřej-kulhavý/) |
