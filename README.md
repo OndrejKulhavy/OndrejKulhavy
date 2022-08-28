@@ -11,16 +11,16 @@ A student passionate about programming 👩‍💻 and especially healthy💪 an
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2022 - To: 25 August 2022
+From: 28 July 2022 - To: 27 August 2022
 
-Total Time: 65 hrs 25 mins
+Total Time: 13 hrs 45 mins
 
-Java                   18 hrs 10 mins  >>>>>>>------------------   27.77 %
-Kotlin                 16 hrs 36 mins  >>>>>>-------------------   25.37 %
-XML                    8 hrs 48 mins   >>>----------------------   13.48 %
-HTML                   5 hrs 58 mins   >>-----------------------   09.13 %
-C#                     4 hrs 55 mins   >>-----------------------   07.52 %
-SCSS                   3 hrs 35 mins   >------------------------   05.50 %
+C#                     5 hrs 4 mins    >>>>>>>>>----------------   36.95 %
+Java                   4 hrs 25 mins   >>>>>>>>-----------------   32.15 %
+XML                    2 hrs 40 mins   >>>>>--------------------   19.50 %
+unity                  35 mins         >------------------------   04.32 %
+Groovy                 30 mins         >------------------------   03.65 %
+GitIgnore file         13 mins         -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
