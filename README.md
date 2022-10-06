@@ -30,7 +30,7 @@ I'm currently studying at [Střední průmyslová škola elektrotechnická Ječn
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
+From: 27 September 2022 - To: 04 October 2022
 
 Total Time: 6 hrs 3 mins
 
