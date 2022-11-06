@@ -30,16 +30,16 @@ I'm currently studying at [Střední průmyslová škola elektrotechnická Ječn
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 October 2022 - To: 03 November 2022
+From: 28 October 2022 - To: 04 November 2022
 
-Total Time: 2 hrs 10 mins
+Total Time: 5 hrs 21 mins
 
-HTML       1 hr 20 mins    >>>>>>>>>>>>>>>>---------   62.00 %
-C#         38 mins         >>>>>>>------------------   29.84 %
-Markdown   4 mins          >------------------------   03.45 %
-Git        4 mins          >------------------------   03.12 %
-XML        1 min           -------------------------   01.53 %
-Other      0 secs          -------------------------   00.06 %
+HTML         2 hrs 26 mins   >>>>>>>>>>>--------------   45.68 %
+CSS          1 hr 20 mins    >>>>>>-------------------   25.14 %
+JavaScript   47 mins         >>>>---------------------   14.88 %
+C#           38 mins         >>>----------------------   12.07 %
+Git          4 mins          -------------------------   01.51 %
+XML          1 min           -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
