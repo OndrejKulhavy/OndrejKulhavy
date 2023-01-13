@@ -30,14 +30,14 @@ I'm currently studying at [Střední průmyslová škola elektrotechnická Ječn
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-Total Time: 17 hrs 23 mins
+Total Time: 17 hrs 44 mins
 
-C#           11 hrs 55 mins  >>>>>>>>>>>>>>>>>--------   68.53 %
-JavaScript   1 hr 59 mins    >>>----------------------   11.43 %
-SQL          1 hr 22 mins    >>-----------------------   07.87 %
-Other        59 mins         >------------------------   05.67 %
+C#           11 hrs 55 mins  >>>>>>>>>>>>>>>>>--------   67.19 %
+JavaScript   2 hrs 19 mins   >>>----------------------   13.12 %
+SQL          1 hr 22 mins    >>-----------------------   07.72 %
+Other        59 mins         >------------------------   05.56 %
 ```
 
 <!--END_SECTION:waka-->
