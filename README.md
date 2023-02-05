@@ -51,4 +51,4 @@ Other        0 secs          -------------------------   00.43 %
 | <img style=width:15px src=https://bit.ly/3TmNQkI></img> Twitter   | [OndrejKulhavy](https://twitter.com/KulhavyOndrej)            |
 | <img style=width:15px src=https://bit.ly/3pNTsqH></img> LinkedIn  | [Ondřej Kulhavý](https://www.linkedin.com/in/ondřej-kulhavý/) |
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="OndrejKulhavy" data-color="#FFDD00" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<script defer type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="OndrejKulhavy" data-color="#FFDD00" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
