@@ -1,32 +1,31 @@
-# Hi there 👋, I'm 𝕆𝕟𝕕𝕣𝕖𝕛 𝕂𝕦𝕝𝕙𝕒𝕧𝕪,
+# 👋 Hello! I'm Ondřej Kulhavý
 
-A student passionate about programming 👩‍💻 and especially healthy💪 and productive life🚀.
+I'm a student at [Střední průmyslová škola elektrotechnická ječná](https://www.spsejecna.cz/)👨‍🎓, currently working as a programmer with VR and zlatokop hospital system at [Institute of Clinical and Experimental Medicine](https://www.ikem.cz/en/)🏥.
 
-I'm currently studying at [Střední průmyslová škola elektrotechnická Ječná](https://spsejecna.cz) and working for [Institute of Clinical and Experimental Medicine](https://ikem.cz).
+I also love to teach and share my knowledge, which is why I conduct a course on robotics for 6 - 11 year old children at [Rodinné centrum Dobříšek](http://www.dobrisek.webnode.cz/). 
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-  
-## My skills
-- 2D / 3D modeling (VR, 3D printing)
-     - Working with CAD systems (usually with [FreeCad](www.freecadweb.org))
-     - Blender
-     - Maya
-- Programing languages
-     - Java
-     - C#
-     - Python
-     - Kotlin
-- Other
-     - Unity engine
-     - Arduino and micro electronics
-     - Video editing
-  
-</details>
+### 💻 Skills
+- C#
+- Java
+- JavaScript
+- TypeScript
+- Blender
+- Unity 3D
 
+### 🏋️‍♂️ Hobbies
 
+Aside from programming, I enjoy going to the gym and running. I also love trying out new coffee places in my free time.
+
+### 📸 Social media
+- [okulhav@gmail.com](okulhav@gmail.com)
+- [instagram](https://www.instagram.com/okulhavy)
+- [Facebook](https://www.facebook.com/Okulhav/)
+- [Twitter](https://twitter.com/KulhavyOndrej)
+- [Linkedin](https://www.linkedin.com/in/ondřej-kulhavý/)
+
+Feel free to reach out to me!
+
+### 📈 Statistics (last 7 days)
 <!--START_SECTION:waka-->
 
 ```text
@@ -43,12 +42,4 @@ Other        0 secs          -------------------------   00.43 %
 <!--END_SECTION:waka-->
 
 
-| Social media                                                      | User name                                                     |
-| ----------------------------------------------------------------- | ------------------------------------------------------------- |
-| <img style=width:15px src=https://bit.ly/3e5NJdj></img> Email     | okulhav@gmail.com                                             |
-| <img style=width:15px src=https://bit.ly/3CD3emT></img> IG        | [okulhavy](https://www.instagram.com/okulhavy)                |
-| <img style=width:15px src=https://bit.ly/3CD1ytH></img> Facebook  | [okulhav](https://www.facebook.com/Okulhav/)                  |
-| <img style=width:15px src=https://bit.ly/3TmNQkI></img> Twitter   | [OndrejKulhavy](https://twitter.com/KulhavyOndrej)            |
-| <img style=width:15px src=https://bit.ly/3pNTsqH></img> LinkedIn  | [Ondřej Kulhavý](https://www.linkedin.com/in/ondřej-kulhavý/) |
 
-<script defer type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="OndrejKulhavy" data-color="#FFDD00" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
