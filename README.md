@@ -29,14 +29,13 @@ Feel free to reach out to me!
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
-Total Time: 3 hrs 8 mins
+Total Time: 2 hrs 44 mins
 
-TypeScript   1 hr 48 mins    >>>>>>>>>>>>>>-----------   57.16 %
-JavaScript   56 mins         >>>>>>>>-----------------   30.08 %
-C#           24 mins         >>>----------------------   12.74 %
-Other        0 secs          -------------------------   00.02 %
+TypeScript   1 hr 48 mins    >>>>>>>>>>>>>>>>---------   65.50 %
+JavaScript   56 mins         >>>>>>>>>----------------   34.47 %
+Other        0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
