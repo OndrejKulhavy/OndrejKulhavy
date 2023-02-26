@@ -29,12 +29,13 @@ Feel free to reach out to me!
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-Total Time: 4 hrs 30 mins
+Total Time: 4 hrs 43 mins
 
-SQL          1 hr 49 mins    >>>>>>>>>>---------------   40.31 %
-Other        54 mins         >>>>>--------------------   20.13 %
+Python       1 hr 33 mins    >>>>>>>>-----------------   33.09 %
+C#           50 mins         >>>>---------------------   17.74 %
+Other        49 mins         >>>>---------------------   17.30 %
 ```
 
 <!--END_SECTION:waka-->
