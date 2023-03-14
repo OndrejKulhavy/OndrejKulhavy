@@ -29,7 +29,7 @@ Feel free to reach out to me!
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2023 - To: 11 March 2023
+From: 05 March 2023 - To: 12 March 2023
 
 Total Time: 4 hrs 4 mins
 
