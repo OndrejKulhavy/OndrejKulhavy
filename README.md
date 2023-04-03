@@ -29,16 +29,16 @@ Feel free to reach out to me!
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2023 - To: 31 March 2023
+From: 25 March 2023 - To: 01 April 2023
 
-Total Time: 1 hr 29 mins
+Total Time: 2 hrs 8 mins
 
-HTML         40 mins         >>>>>>>>>>>--------------   45.05 %
-TypeScript   28 mins         >>>>>>>>-----------------   31.56 %
-Markdown     12 mins         >>>----------------------   13.48 %
-JavaScript   5 mins          >------------------------   05.59 %
-CSS          3 mins          >------------------------   04.22 %
-Other        0 secs          -------------------------   00.08 %
+TypeScript   58 mins         >>>>>>>>>>>--------------   45.66 %
+HTML         40 mins         >>>>>>>>-----------------   31.59 %
+Markdown     12 mins         >>-----------------------   09.44 %
+JavaScript   11 mins         >>-----------------------   08.73 %
+CSS          3 mins          >------------------------   02.96 %
+Git          1 min           -------------------------   01.55 %
 ```
 
 <!--END_SECTION:waka-->
