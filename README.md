@@ -29,16 +29,16 @@ Feel free to reach out to me!
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 27 March 2023 - To: 03 April 2023
 
-Total Time: 1 hr 22 mins
+Total Time: 3 hrs 43 mins
 
-TypeScript   58 mins         >>>>>>>>>>>>>>>>>>-------   70.74 %
-Markdown     12 mins         >>>>---------------------   14.63 %
-JavaScript   6 mins          >>-----------------------   07.46 %
-CSS          3 mins          >------------------------   04.58 %
-Git          1 min           >------------------------   02.41 %
-Other        0 secs          -------------------------   00.09 %
+JavaScript   1 hr 15 mins    >>>>>>>>-----------------   33.89 %
+TypeScript   1 hr 13 mins    >>>>>>>>-----------------   32.62 %
+C#           48 mins         >>>>>--------------------   21.64 %
+Markdown     12 mins         >------------------------   05.41 %
+CSS          10 mins         >------------------------   04.77 %
+Git          1 min           -------------------------   00.89 %
 ```
 
 <!--END_SECTION:waka-->
