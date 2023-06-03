@@ -28,16 +28,16 @@ Feel free to reach out to me!
 ### 📈 Statistics (last 7 days)
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
-Total Time: 7 hrs 53 mins
+Total Time: 8 hrs 33 mins
 
-C#           5 hrs 21 mins   >>>>>>>>>>>>>>>>>--------   67.86 %
-TypeScript   48 mins         >>>----------------------   10.28 %
-Markdown     38 mins         >>-----------------------   08.15 %
-JavaScript   25 mins         >------------------------   05.49 %
-Other        17 mins         >------------------------   03.61 %
+C#           3 hrs 4 mins    >>>>>>>>>----------------   35.91 %
+HTML         2 hrs 7 mins    >>>>>>-------------------   24.84 %
+TypeScript   1 hr 59 mins    >>>>>>-------------------   23.35 %
+Markdown     24 mins         >------------------------   04.71 %
+Other        17 mins         >------------------------   03.34 %
 ```
 
 <!--END_SECTION:waka-->
