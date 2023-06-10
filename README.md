@@ -16,15 +16,6 @@ I also love to teach and share my knowledge, which is why I conduct a course on 
 
 Aside from programming, I enjoy going to the gym and running. I also love trying out new coffee places in my free time.
 
-### 📸 Social media
-- [okulhav@gmail.com](okulhav@gmail.com)
-- [instagram](https://www.instagram.com/okulhavy)
-- [Facebook](https://www.facebook.com/Okulhav/)
-- [Twitter](https://twitter.com/KulhavyOndrej)
-- [Linkedin](https://www.linkedin.com/in/ondřej-kulhavý/)
-
-Feel free to reach out to me!
-
 ### 📈 Statistics (last 7 days)
 <!--START_SECTION:waka-->
 
