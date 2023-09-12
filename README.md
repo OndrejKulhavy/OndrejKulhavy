@@ -18,12 +18,12 @@ Aside from programming, I enjoy going to the gym and running. I also love trying
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-Total Time: 1 hr 46 mins
+Total Time: 2 hrs 34 mins
 
-Markdown   1 hr 17 mins    >>>>>>>>>>>>>>>>>>-------   73.20 %
-C#         28 mins         >>>>>>>------------------   26.80 %
+Markdown   1 hr 17 mins    >>>>>>>>>>>>>------------   50.37 %
+C#         1 hr 16 mins    >>>>>>>>>>>>-------------   49.63 %
 ```
 
 <!--END_SECTION:waka-->
