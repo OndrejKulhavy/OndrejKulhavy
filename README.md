@@ -18,15 +18,15 @@ Aside from programming, I enjoy going to the gym and running. I also love trying
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-Total Time: 15 hrs 34 mins
+Total Time: 14 hrs 49 mins
 
-Python               11 hrs 15 mins  >>>>>>>>>>>>>>>>>>-------   72.31 %
-C#                   2 hrs 45 mins   >>>>---------------------   17.69 %
-HTML                 46 mins         >------------------------   04.94 %
-Markdown             31 mins         >------------------------   03.33 %
-XML                  4 mins          -------------------------   00.46 %
+Python               9 hrs 19 mins   >>>>>>>>>>>>>>>>---------   62.86 %
+C#                   3 hrs 46 mins   >>>>>>-------------------   25.49 %
+HTML                 46 mins         >------------------------   05.19 %
+Markdown             30 mins         >------------------------   03.44 %
+UnityYaml            9 mins          -------------------------   01.07 %
 ```
 
 <!--END_SECTION:waka-->
