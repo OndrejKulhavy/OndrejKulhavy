@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Ondřej Kulhavý
 
-I'm a student at [Střední průmyslová škola elektrotechnická ječná](https://www.spsejecna.cz/)👨‍🎓, currently working as a programmer with VR and zlatokop hospital system at [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/)🏥.
+I'm a computer science student at [Střední průmyslová škola elektrotechnická ječná](https://www.spsejecna.cz/)👨‍🎓, currently working on AR app for surgical planning as part of research project called VRLab by [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/)🏥.
+In addition to that I focus on developing AI writing tool for hospital informational system "Zlatokop".
 
 ### 💻 Skills
 - C#
@@ -12,8 +13,7 @@ I'm a student at [Střední průmyslová škola elektrotechnická ječná](https
 
 ### 🏋️‍♂️ Hobbies
 
-Aside from programming, I enjoy going to the gym and running. I also love trying out new coffee places in my free time.
-
+Aside from programming, I love theater🎭, training in a gym💪, oil-painting🎨 and relaxing with cup of coffee☕.
 ### 📈 Statistics (last 7 days)
 <!--START_SECTION:waka-->
 
