@@ -18,13 +18,15 @@ Aside from programming, I love theater🎭, training in a gym💪, oil-painting�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-Total Time: 11 mins
+Total Time: 34 mins
 
-XML          7 mins          >>>>>>>>>>>>>>>>---------   64.43 %
-Kotlin       3 mins          >>>>>>>>>----------------   35.22 %
-Properties   0 secs          -------------------------   00.35 %
+C#                   21 mins         >>>>>>>>>>>>>>>>---------   62.32 %
+XML                  7 mins          >>>>>--------------------   21.20 %
+Kotlin               4 mins          >>>----------------------   13.58 %
+Python               0 secs          >------------------------   02.74 %
+Properties           0 secs          -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
