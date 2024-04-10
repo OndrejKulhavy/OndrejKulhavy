@@ -18,15 +18,15 @@ Aside from programming, I love theater🎭, training in a gym💪, oil-painting�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
-Total Time: 4 hrs 11 mins
+Total Time: 4 hrs 47 mins
 
-Markdown   2 hrs 17 mins   >>>>>>>>>>>>>>-----------   54.71 %
-Python     45 mins         >>>>>--------------------   18.12 %
-netrw      41 mins         >>>>---------------------   16.68 %
-Other      13 mins         >------------------------   05.17 %
-Text       9 mins          >------------------------   03.77 %
+Markdown   2 hrs           >>>>>>>>>>>--------------   42.10 %
+Python     49 mins         >>>>---------------------   17.25 %
+netrw      45 mins         >>>>---------------------   16.01 %
+Jupyter    42 mins         >>>>---------------------   14.79 %
+Other      14 mins         >------------------------   05.19 %
 ```
 
 <!--END_SECTION:waka-->
