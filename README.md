@@ -18,15 +18,15 @@ Aside from programming, I love theater🎭, training in a gym💪, oil-painting�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2024 - To: 07 July 2024
+From: 01 July 2024 - To: 08 July 2024
 
-Total Time: 1 hr 26 mins
+Total Time: 4 hrs 7 mins
 
-TypeScript   31 mins         >>>>>>>>>----------------   36.87 %
-netrw        27 mins         >>>>>>>>-----------------   32.08 %
-Markdown     15 mins         >>>>---------------------   17.93 %
-Python       10 mins         >>>----------------------   12.58 %
-Other        0 secs          -------------------------   00.39 %
+Python       1 hr            >>>>>>-------------------   24.38 %
+netrw        51 mins         >>>>>--------------------   20.96 %
+TypeScript   40 mins         >>>>---------------------   16.37 %
+Markdown     27 mins         >>>----------------------   11.11 %
+Other        23 mins         >>-----------------------   09.54 %
 ```
 
 <!--END_SECTION:waka-->
