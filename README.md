@@ -18,15 +18,15 @@ Aside from programming, I love theater🎭, training in a gym💪, oil-painting�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2024 - To: 11 July 2024
+From: 05 July 2024 - To: 12 July 2024
 
-Total Time: 10 hrs 1 min
+Total Time: 12 hrs 39 mins
 
-Python       1 hr 57 mins    >>>>>--------------------   19.52 %
-YAML         1 hr 34 mins    >>>>---------------------   15.67 %
-TypeScript   1 hr 18 mins    >>>----------------------   12.98 %
-Docker       1 hr 3 mins     >>>----------------------   10.60 %
-Bash         1 hr 2 mins     >>>----------------------   10.44 %
+YAML         2 hrs 5 mins    >>>>---------------------   16.52 %
+Python       2 hrs 5 mins    >>>>---------------------   16.47 %
+TypeScript   1 hr 53 mins    >>>>---------------------   14.89 %
+Other        1 hr 12 mins    >>-----------------------   09.59 %
+Docker       1 hr 3 mins     >>-----------------------   08.39 %
 ```
 
 <!--END_SECTION:waka-->
