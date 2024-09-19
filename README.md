@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Ondřej Kulhavý
 
-I'm a computer science student at [Střední průmyslová škola elektrotechnická ječná](https://www.spsejecna.cz/)👨‍🎓, currently working on AR app for surgical planning as part of research project called VRLab by [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/)🏥.
-In addition to that I focus on developing AI writing tool for hospital informational system "Zlatokop".
+I'm a czech 🇨🇿 software development student at [ATU Sligo](https://www.itsligo.ie/) in Ireland 🇮🇪. I previously studied at [Střední průmyslová škola elektrotechnická Ječná](https://www.spsejecna.cz/) in the Czech Republic. Currently, I'm working on an AR app for surgical planning as part of a research project called VRLab by the [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/) 🏥.
 
 ### 💻 Skills
 - C#
@@ -14,6 +13,7 @@ In addition to that I focus on developing AI writing tool for hospital informati
 ### 🏋️‍♂️ Hobbies
 
 Aside from programming, I love theater🎭, training in a gym💪, oil-painting🎨 and relaxing with cup of coffee☕.
+
 ### 📈 Statistics (last 7 days)
 <!--START_SECTION:waka-->
 
