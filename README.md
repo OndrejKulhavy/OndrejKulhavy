@@ -18,15 +18,15 @@ Aside from programming, I love theater🎭, training in a gym💪, oil-painting�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Total Time: 6 hrs 55 mins
+Total Time: 7 hrs 49 mins
 
-Python       3 hrs 28 mins   >>>>>>>>>>>>>------------   50.14 %
-C#           1 hr 50 mins    >>>>>>>------------------   26.58 %
-netrw        41 mins         >>>----------------------   10.01 %
-Lua          17 mins         >------------------------   04.24 %
-Other        17 mins         >------------------------   04.21 %
+Python       4 hrs 3 mins    >>>>>>>>>>>>>------------   51.88 %
+C#           2 hrs           >>>>>>-------------------   25.71 %
+netrw        48 mins         >>>----------------------   10.34 %
+Other        19 mins         >------------------------   04.06 %
+Lua          17 mins         >------------------------   03.75 %
 ```
 
 <!--END_SECTION:waka-->
