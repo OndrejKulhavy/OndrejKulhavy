@@ -3,12 +3,8 @@
 I'm a czech 🇨🇿 software development student at [ATU Sligo](https://www.itsligo.ie/) in Ireland 🇮🇪. I previously studied at [Střední průmyslová škola elektrotechnická Ječná](https://www.spsejecna.cz/) in the Czech Republic. Currently, I'm working on an AR app for surgical planning as part of a research project called VRLab by the [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/) 🏥.
 
 ### 💻 Skills
-- C#
-- Java
-- JavaScript
-- TypeScript
-- Blender
-- Unity 3D
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,java,ts,react,blender,unity,neovim)](https://skillicons.dev)
+
 
 ### 🏋️‍♂️ Hobbies
 
