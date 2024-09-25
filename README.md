@@ -13,23 +13,3 @@ I'm a czech 🇨🇿 software development student at [ATU Sligo](https://www.its
 ### 🏋️‍♂️ Hobbies
 
 Aside from programming, I love theater🎭, training in a gym💪, oil-painting🎨 and relaxing with cup of coffee☕.
-
-### 📈 Statistics (last 7 days)
-<!--START_SECTION:waka-->
-
-```txt
-From: 16 September 2024 - To: 23 September 2024
-
-Total Time: 6 hrs 48 mins
-
-Python   3 hrs 29 mins   >>>>>>>>>>>>>------------   51.34 %
-C#       2 hrs 25 mins   >>>>>>>>>----------------   35.61 %
-netrw    36 mins         >>-----------------------   09.05 %
-Other    12 mins         >------------------------   03.06 %
-Lua      2 mins          -------------------------   00.50 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
