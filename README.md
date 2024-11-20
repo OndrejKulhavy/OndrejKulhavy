@@ -1,18 +1,17 @@
-# 👋 Hello! I'm Ondřej Kulhavý
+# 👋 Hi, I'm Ondřej Kulhavý 🇨🇿
+A first-year **Software Development** student at [Atlantic Technological University, Sligo](https://www.itsligo.ie/) in Ireland 🇮🇪, originally from the Czech Republic 🇨🇿. Before starting university, I studied at [Střední průmyslová škola elektrotechnická, Ječná](https://www.spsejecna.cz/). Currently, I’m involved in an exciting **AR app** development for **surgical planning** as part of the **VRLab** research project at the [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/) 🏥.
 
-I am a Czech 🇨🇿 software development student in my first year of a bachelor's degree at [Atlantic Technological University, Sligo](https://www.itsligo.ie/) in Ireland 🇮🇪. I previously studied at [Střední průmyslová škola elektrotechnická, Ječná](https://www.spsejecna.cz/) in the Czech Republic. Currently, I'm working on an AR app for surgical planning as part of a research project called VRLab by the [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/) 🏥.
-
-### 💻 Skills
+### 💻 My Skills
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,java,ts,react,blender,unity,neovim)](https://skillicons.dev)
 
-### 🎯 Projects
+### 🎯 Notable Projects
 
 - **VR Lab Portal**  
-  Developed a web platform designed for managing patient 3D model data across multiple institutions. Features include integration with VR/AR devices, API support for data exchange, and a user-friendly interface.  
+  A web platform for managing patient 3D model data across healthcare institutions. It integrates VR/AR devices, supports API-driven data exchange, and features an intuitive UI.  
   **Technologies**: Django, Docker, React, ShadcnUI  
 
 - **AR Lab**  
-  Augmented reality applications for surgical planning at [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/). Created an immersive solution to visualize patient-specific 3D models derived from MRI/CT scans. Key functionalities include dynamic resizing, structure hiding, and real-time coloring adjustments via API integration.  
+  An **Augmented Reality** solution for surgical planning, developed for the [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/). It enables surgeons to interact with patient-specific 3D models derived from MRI/CT scans in an immersive AR environment, including dynamic resizing, structure hiding, and real-time color adjustments.  
   **Technologies**: Unity, OpenXR, MagicLeap 2
 
 ### 🏋️‍♂️ Hobbies
