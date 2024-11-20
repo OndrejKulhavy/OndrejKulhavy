@@ -5,6 +5,15 @@ I am a Czech 🇨🇿 software development student in my first year of a bachelo
 ### 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,java,ts,react,blender,unity,neovim)](https://skillicons.dev)
 
+### 🎯 Projects
+
+- **VR Lab Portal**  
+  Developed a web platform designed for managing patient 3D model data across multiple institutions. Features include integration with VR/AR devices, API support for data exchange, and a user-friendly interface.  
+  **Technologies**: Django, Docker, React, ShadcnUI  
+
+- **AR Lab**  
+  Augmented reality applications for surgical planning at [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/). Created an immersive solution to visualize patient-specific 3D models derived from MRI/CT scans. Key functionalities include dynamic resizing, structure hiding, and real-time coloring adjustments via API integration.  
+  **Technologies**: Unity, OpenXR, MagicLeap 2
 
 ### 🏋️‍♂️ Hobbies
 
