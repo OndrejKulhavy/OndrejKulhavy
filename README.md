@@ -2,7 +2,7 @@
 A first-year **Software Development** student at [Atlantic Technological University, Sligo](https://www.itsligo.ie/) in Ireland 🇮🇪, originally from the Czech Republic 🇨🇿. Before starting university, I studied at [Střední průmyslová škola elektrotechnická, Ječná](https://www.spsejecna.cz/). Currently, I’m involved in an exciting **AR app** development for **surgical planning** as part of the **VRLab** research project at the [Institute for Clinical and Experimental Medicine](https://www.ikem.cz/en/) 🏥.
 
 ### 💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=dotnet,py,java,ts,react,blender,unity,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,ts,react,blender,unity,neovim)](https://skillicons.dev)
 
 ### 🎯 Notable Projects
 
