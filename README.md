@@ -6,15 +6,19 @@ I turn patient MRI/CT scans into interactive 3D models that surgeons explore in 
 
 ### 🚀 Projects
 
-**[VR Lab Portal](https://vrlab.ikem.cz/landingpage) — IKEM**
+#### [VR Lab Portal](https://vrlab.ikem.cz/landingpage) · IKEM
 The platform behind VRLab: stores, previews, and pushes patient-specific 3D reconstructions straight to surgical teams' VR/AR headsets — deeply integrated with IKEM's hospital information system.
 
-<img src="vrlab.png" alt="VR Lab Portal screenshot" width="640" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+<p align="center">
+  <img src="vrlab.png" alt="VR Lab Portal screenshot" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid #e1e4e8; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);" />
+</p>
 
-**[Tappka](https://tiimi.cz/) — Tiimiakatemia Prague**
+#### [Tappka](https://tiimi.cz/) · Tiimiakatemia Prague
 The student portal my team actually runs on: interactive book library, essay management, and room scheduling — built to fix our daily operational bottlenecks.
 
-<img src="Tappka.png" alt="Tappka screenshot" width="640" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+<p align="center">
+  <img src="Tappka.png" alt="Tappka screenshot" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid #e1e4e8; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);" />
+</p>
 
 ### 🛠️ Stack
 
