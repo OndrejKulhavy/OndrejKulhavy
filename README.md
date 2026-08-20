@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ondřej Kulhavý
 
-**Full-Stack & VR Developer** building 3D & VR medical systems at [IKEM](https://www.ikem.cz/en/) · **Full Stack Engineer** at WeBe · Student at Tiimiakatemia Prague
+**Full-Stack & VR Developer** building 3D & VR medical systems at [IKEM](https://www.ikem.cz/en/) · **Full Stack Engineer** at [WeBe](https://webe.tuuli.cz/) · Student at Tiimiakatemia Prague
 
 I turn patient MRI/CT scans into interactive 3D models that surgeons explore in VR and AR before they step into the operating room.
 
