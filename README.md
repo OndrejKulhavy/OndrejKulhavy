@@ -26,7 +26,8 @@ I live in the terminal — Neovim, tmux, and a good CLI are my home base.
 
 ### 🎓 Education
 
-Innovative Entrepreneurship (Tiimiakatemia®), CZU Prague — 2025–2028
+- **Innovative Entrepreneurship (Tiimiakatemia®)** — CZU Prague, 2025–2028
+- **Information Technology** — [SPŠE Ječná](https://www.spsejecna.cz/), 2020–2024
 
 ### ☕ Beyond code
 
