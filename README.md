@@ -10,7 +10,7 @@ I turn patient MRI/CT scans into interactive 3D models that surgeons explore in 
 The platform behind VRLab: stores, previews, and pushes patient-specific 3D reconstructions straight to surgical teams' VR/AR headsets — deeply integrated with IKEM's hospital information system.
 
 <p align="center">
-  <img src="vrlab.png" alt="VR Lab Portal screenshot" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid #e1e4e8; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);" />
+  <img src="vrlab.webp" alt="VR Lab Portal demo in the surgery room" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid #e1e4e8; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);" />
 </p>
 
 #### [Tappka](https://tiimi.cz/) · Tiimiakatemia Prague
