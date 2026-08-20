@@ -4,21 +4,27 @@
 
 I turn patient MRI/CT scans into interactive 3D models that surgeons explore in VR and AR before they step into the operating room.
 
+---
+
 ### 🚀 Projects
 
 #### [VR Lab Portal](https://vrlab.ikem.cz/landingpage) · IKEM
 The platform behind VRLab: stores, previews, and pushes patient-specific 3D reconstructions straight to surgical teams' VR/AR headsets — deeply integrated with IKEM's hospital information system.
 
 <p align="center">
-  <img src="vrlab.webp" alt="VR Lab Portal demo in the surgery room" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid #e1e4e8; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);" />
+  <img src="vrlab.webp" alt="VR Lab Portal demo in the surgery room" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid rgba(140, 140, 140, 0.35);" />
 </p>
+<p align="center"><sub><i>A patient's 3D reconstruction, live on the OR display mid-procedure</i></sub></p>
 
 #### [Tappka](https://tiimi.cz/) · Tiimiakatemia Prague
 The student portal my team actually runs on: interactive book library, essay management, and room scheduling — built to fix our daily operational bottlenecks.
 
 <p align="center">
-  <img src="Tappka.png" alt="Tappka screenshot" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid #e1e4e8; box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);" />
+  <img src="Tappka.png" alt="Tappka screenshot" width="640" style="max-width: 100%; border-radius: 10px; border: 1px solid rgba(140, 140, 140, 0.35);" />
 </p>
+<p align="center"><sub><i>Dashboard view — reading leaderboard, room bookings, and essays to review in one place</i></sub></p>
+
+---
 
 ### 🛠️ Stack
 
@@ -30,10 +36,14 @@ I live in the terminal — Neovim, tmux, and a good CLI are my home base.
 **XR & 3D:** Unity · OpenXR · Magic Leap 2 · Blender
 **Workflow:** Neovim · tmux · Docker · PostgreSQL · Git
 
+---
+
 ### 🎓 Education
 
 - **Innovative Entrepreneurship (Tiimiakatemia®)** — [CZU Prague](https://ip.pef.czu.cz/), 2025–2028
 - **Information Technology** — [SPŠE Ječná](https://www.spsejecna.cz/), 2020–2024
+
+---
 
 ### ☕ Beyond code
 
