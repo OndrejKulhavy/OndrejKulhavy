@@ -12,8 +12,6 @@ The platform behind VRLab: stores, previews, and pushes patient-specific 3D reco
 **[Tappka](https://tiimi.cz/) — Tiimiakatemia Prague**
 The student portal my team actually runs on: interactive book library, essay management, and room scheduling — built to fix our daily operational bottlenecks.
 
-**DigiPot** — Open-source self-watering flower pot on Arduino.
-
 ### 🛠️ Stack
 
 I live in the terminal — Neovim, tmux, and a good CLI are my home base.
